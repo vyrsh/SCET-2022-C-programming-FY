@@ -54,4 +54,6 @@
 
 // 26 generate primes till N
 
-// 27 find factorial of given number
+// 27 find factorial of given number, recursive
+
+// 28 accept a string, and count number of characters
