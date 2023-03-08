@@ -10,12 +10,11 @@
 // convert to meter, feet, inches, CM
 
 // 6 write a program to find out, distance traveled by a vehicle, for time T
-
 // with eqn, dist = u*t + a*t/2 , where u is intital velocity.
 
 // 8 write a program to find whether the givwen number is postive, negative or zero
 // 10 write a program to read marks, of a single subject, if marks < 36, output the result
-// 7 write a program to find max among 3 nums.
+// 7 similar to 9, but using a<num, instead of a<"A"
 // 9 write a program to check, the entered char is cap,small or digit, or special char.
 
 // 11 enter marks, marks between 100 and 80: "distinction"
@@ -57,3 +56,54 @@
 // 27 find factorial of given number, recursive
 
 // 28 accept a string, and count number of characters
+
+// 29 take input numbers, output sum and average
+
+// 30  take start, end, output numbers in range
+
+// 31 evaluate the series 1 + 1/2 + 1/3 + 1/4 ... 1/n
+// 32 evaluate the series  1+1/2!+1/3!+1/4!+.....+1/n! 
+// print pattern
+// 33
+// *
+// * *
+// * * *
+// * * * *
+// * * * * *
+// 34
+// * * * * *
+// * * * *
+// * * *
+// * *
+// *
+// 35
+//    *
+//   * *
+//  * * *
+// * * * *
+// 36 
+//     1
+//    1 1
+//   1 2 1
+//  1 3 3 1
+// 1 4 6 4 1
+
+// 37
+// odd and even from  array
+
+// 40
+// read and store roll no in 2 dim array. 20 students
+
+// 41
+// selection sort
+
+// 42
+// replace and delete character from given string
+
+// 43 reverse string
+
+// 44 prime check function
+
+// 45 recursive factorial
+
+// 46 time_struct
